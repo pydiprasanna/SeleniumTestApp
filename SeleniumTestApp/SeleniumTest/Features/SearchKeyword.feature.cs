@@ -82,7 +82,7 @@ this.ScenarioInitialize(scenarioInfo);
 #line 5
  testRunner.When("I Search for a keyword called \'Selenium\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line 6
- testRunner.Then("I should see \'Selenium\' on the goole search", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+ testRunner.Then("I should see \'Selenium - Google Search\' on the goole search", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             this.ScenarioCleanup();
         }
